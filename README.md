@@ -1,24 +1,5 @@
-# README
+## Rails 5.1x Sandbox
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Exploratory learning repository while investigating all of the [new and exciting updates](http://weblog.rubyonrails.org/2017/2/23/Rails-5-1-beta1/) that are part of the Rails 5.1 beta and pre-releases.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Current work is barebones and current supports `rails console`, `rails server`, and other out-of-the-box common rails functionality.
